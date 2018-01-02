@@ -11,3 +11,6 @@ Regenerates the list of all classes that need to be included in the project (`au
 
 ``` composer self-update ```
 
+Updates composer to the latest version.
+
+(composer self-update documentation)[https://getcomposer.org/doc/03-cli.md#self-update-selfupdate-]
