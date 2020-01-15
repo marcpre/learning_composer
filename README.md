@@ -14,3 +14,10 @@ Regenerates the list of all classes that need to be included in the project (`au
 Updates composer to the latest version.
 
 [composer self-update documentation](https://getcomposer.org/doc/03-cli.md#self-update-selfupdate-)
+
+
+## Show what is installed
+
+``` composer show -i ```
+
+[Popular composer commands](https://medium.com/hello-laravel/the-most-useful-php-composer-commands-f6554c157447)
